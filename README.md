@@ -25,5 +25,18 @@ The repository is structured in the following way:
 - other_model: In the same file we also have other models that we tried.
 - report.pdf: pdf file containing a brief recap of all our experiments before reaching the best model.
 
+## Results
 
+## Scores in the Development phase
+Accuracy: 0.9100	<br>
+Precision: 0.8372 <br>
+Recall: 0.9474 <br>
+F1_score: 0.8889 <br> <br>
+Rank 108 out of 608 students
 
+## Scores in the Final phase 
+Accuracy: 0.8220	<br>
+Precision: 0.7306 <br>
+Recall: 0.8421 <br>
+F1_score: 0.7824 <br> <br>
+Rank 245 out of 608 students
